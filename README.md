@@ -17,4 +17,4 @@ Coin é um projeto MOBILE onde o usuário encontra informações sobre CRIPTOMOE
 
 ## Vídeo demonstração:
 
-Uploading coin.mp4…
+https://user-images.githubusercontent.com/92190292/200952859-100f6372-9977-47e9-ac20-68901afa6dea.mp4
